@@ -1,7 +1,4 @@
-# Define here the models for your scraped items
-#
-# See documentation in:
-# https://docs.scrapy.org/en/latest/topics/items.html
+# Define here the models for scraped items
 
 import scrapy
 from scrapy.loader import ItemLoader
