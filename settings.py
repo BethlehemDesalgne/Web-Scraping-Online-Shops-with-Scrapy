@@ -1,4 +1,4 @@
-# Scrapy settings for whiskyscraper project
+# Scrapy settings for scrapy online shop project
 
 BOT_NAME = 'whiskyscraper'
 
